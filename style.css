@@ -1,0 +1,31 @@
+.container{
+    width: 40%;
+    background-color: white;
+    border-radius: 15px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+body{
+    background-image: url(back.jpg);
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    font-size: 18px;
+}
+
+button{
+    display: inline-block;
+    margin: 10px auto;
+    padding: 10px 20px;
+}
